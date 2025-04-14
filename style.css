@@ -1,26 +1,33 @@
-<html>
-  <head>
-    <link rel="stylesheet" href="style.css">
-    <body>
-      <h1>Animal Shelter</h1>
-      <p>There are so many pets in the animal shelter when they had a home before, just they got lost</p>
-      <br>
-      <hr>
-      <h2>Adoption Showcase</h2>
-      <br>
-      <h3>Name of Pet</h3>
-      <ul>
-        <li>Dogs - Running away</li>
-        <li>Cats - Thinking they can go where ever</li>
-        <br>
-        <img src="https://assets.onecompiler.app/4362w735e/43et2eg74/IMG_20250414_082101.jpg" alt="PJ - Feeling like a good boy">
-        <br>
-        <li>PJ - Feeling like a good boy!</li>
-      </ul>
-      <p>For more information go to:</p>
-      <a href="https://www.cityoffortwayne.org/animal-care-and-control.html">
-        <button>Information</button>
-      </a>
-    </body>
-  </head>
-</html>
+body {
+  background-color: #ADD8E6;
+}
+
+h1 {
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+p {
+  font-family: cursive;
+  font-weight: 350;
+}
+
+h2 {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+li {
+  font-family: Comic Sans MS;
+  font-weight: 350;
+}
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+}
